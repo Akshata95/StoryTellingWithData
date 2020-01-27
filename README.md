@@ -14,4 +14,7 @@ To get a better understanding of how to use data visualizations in a professiona
 ### OECD data visualization
 [Click here to go to the OECD visualizations page](OECD.md)
 
+This page contains different visualization of the same dataset; https://data.oecd.org/gga/general-government-debt.htm. The visualizations were made with rawgraphs.io
+The dataset shows the general government debt in % of GDP of various countries during a period of around 20 years. The first bar chart shown is a chart made avaiable by the Economic co-operation and Development organization. Further visualizations are of my own work, these include a beeswarm plot, and a boxplot. The beeswarm plot uses distinct ‘bubbles’ per year.I was interested in showing the change of debt to %GDP, so I chose to euse a boxplot to do that, which gives an interesting view on the datarange of the various countries’ debts. Enjoy looking around!
+
 
