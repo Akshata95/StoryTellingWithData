@@ -1,3 +1,4 @@
+[Back](https://akshata95.github.io/StoryTellingWithData)
 ### Critique by design
 
 (please note: I'm still having some issues embedding the visualizations due to account issues, for now static images will be used untill I get that fixed)
@@ -35,5 +36,7 @@ The main change I made was decreasing the range of the date-axis. This way, the 
 ![image](rates.png)
 [data source](https://countryeconomy.com/key-rates)
 
-I'm happy with the result. One can see the recent changes and trends in central bank rates with just a quick glance. There are a few things I'm not 100% happy with yet. I wasn't able to find a way to **bold** the America line and title (something which I will ask next lecture). Another thing I'm unsure about is the date; I wanted to keep the X axis fairly free from data clutter, but maybe I shouldve added a little more detailed date indicators. Overall the result is much better fitting for the story which the original article wanted to convey. Still, I felt like NYT fitted the data to what they wanted people to see, instead what the data might actually represent.. Hopefully you agree with my changes made, thanks for reading!<br>
+I'm happy with the result. One can see the recent changes and trends in central bank rates with just a quick glance. There are a few things I'm not 100% happy with yet. I wasn't able to find a way to **bold** the America line and title (something which I will ask next lecture). Another thing I'm unsure about is the date; I wanted to keep the X axis fairly free from data clutter, but maybe I shouldve added a little more detailed date indicators. Overall the result is much better fitting for the story which the original article wanted to convey. Still, I felt like NYT fitted the data to what they wanted people to see, instead what the data might actually represent.. Hopefully you agree with my changes made, thanks for reading!<br> Akshata
+
+[Back](https://akshata95.github.io/StoryTellingWithData)
 
