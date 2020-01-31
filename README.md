@@ -17,5 +17,10 @@ To get a better understanding of how to use data visualizations in a professiona
 This page contains different visualization of the same dataset; https://data.oecd.org/gga/general-government-debt.htm. The visualizations were made with rawgraphs.io
 The dataset shows the general government debt in % of GDP of various countries during a period of around 20 years. The first bar chart shown is a chart made avaiable by the Economic co-operation and Development organization. Further visualizations are of my own work, these include a beeswarm plot, and a boxplot. The beeswarm plot uses distinct ‘bubbles’ per year.I was interested in showing the change of debt to %GDP, so I chose to euse a boxplot to do that, which gives an interesting view on the datarange of the various countries’ debts. Enjoy looking around!
 
+### Critique by design
+[Click here to see the critique by design part of my portfolio](critiquebydesign.md)
+
+In This following part of the portfolio, I have giving critique on a comically bad visualization by the New York Times in their article from 09/18/2019 about Why the Fed Lowered Interest Rates Again. The visualization is one that tries to show the reader everything and conveys nothing. This is an iterative process in which I will conduct audience research to improve my visualization.
+
 
 
