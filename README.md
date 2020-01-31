@@ -18,3 +18,4 @@ This page contains different visualization of the same dataset; https://data.oec
 The dataset shows the general government debt in % of GDP of various countries during a period of around 20 years. The first bar chart shown is a chart made avaiable by the Economic co-operation and Development organization. Further visualizations are of my own work, these include a beeswarm plot, and a boxplot. The beeswarm plot uses distinct ‘bubbles’ per year.I was interested in showing the change of debt to %GDP, so I chose to euse a boxplot to do that, which gives an interesting view on the datarange of the various countries’ debts. Enjoy looking around!
 
 
+
