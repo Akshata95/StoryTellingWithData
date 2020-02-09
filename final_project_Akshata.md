@@ -56,12 +56,12 @@ Showing increase in tourism in European countries from 2000 to 2015 -
 
 Impact of tourism on water quality - 
 
-![image](water quality.JPG)
+![image](water_quality.JPG)
 [source](https://www.eea.europa.eu/data-and-maps/figures#c0=15&c5=&c15=all&b_start=0)
 
 Measures taken to make tourism more sustainable -
 Environmental certification/labelling in the tourism sector - 
-![image](certification.jpg)
+![image](certification.JPG)
 
 
 
