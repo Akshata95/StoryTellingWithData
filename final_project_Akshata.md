@@ -54,7 +54,8 @@ Showing increase in tourism in European countries from 2000 to 2015 -
 ![image](arrivals.jpg)
 [source](https://www.eea.europa.eu/data-and-maps/figures#c0=15&c5=&c15=all&b_start=0)
 
-Impact of tourism on water quality -
+Impact of tourism on water quality - 
+
 ![image](water quality.JPG)
 [source](https://www.eea.europa.eu/data-and-maps/figures#c0=15&c5=&c15=all&b_start=0)
 
