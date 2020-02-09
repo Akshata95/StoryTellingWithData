@@ -1,5 +1,6 @@
 [Back](https://akshata95.github.io/StoryTellingWithData)
-# Final project - Tourism and the Environment - part 1
+[Part 1](final_project_Akshata.md)
+# Final project - Tourism and the Environment - part 1 
 
 ### Project outline & proposal
 Tourism has always been – from a historical perspective – a societal response to the human need for
