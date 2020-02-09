@@ -47,7 +47,7 @@ Then we see the impact of tourism on the environment
 
 
 ### Sketches: 
-First geospatial graph to show the extent of tourism in Europe with respect to the world: 
+First geospatial graph to show the extent of tourism in Europe with respect to the world-
 ![image](worldmap.jpg)
 [source](https://www.unwto.org/archive/global/publication/unwto-tourism-highlights-2016-edition)
 
