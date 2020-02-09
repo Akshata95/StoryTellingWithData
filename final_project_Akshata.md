@@ -47,7 +47,7 @@ Then we see the impact of tourism on the environment
 
 
 ### Sketches: 
-First geospatial graph to show the extent of tourism in Europe with respect to the world-
+First geospatial graph to show the extent of tourism in Europe with respect to the world- 
 ![image](worldmap.jpg)
 [source](https://www.unwto.org/archive/global/publication/unwto-tourism-highlights-2016-edition)
 
@@ -60,7 +60,7 @@ Impact of tourism on water quality -
 [source](https://www.eea.europa.eu/data-and-maps/figures#c0=15&c5=&c15=all&b_start=0)
 
 Measures taken to make tourism more sustainable -
-Environmental certification/labelling in the tourism sector -
+Environmental certification/labelling in the tourism sector - 
 ![image](certification.jpg)
 
 
