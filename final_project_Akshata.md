@@ -16,12 +16,12 @@ tourism in the future, because tourism needs a clean and attractive environment.
 necessary to monitor and measure the impact of tourism on the environment, and implement tourismrelated policies to ensure greater sustainability of the sector.
 
 ### Story Arc
-#Europe Tourism and its impact on environment -
+##Europe Tourism and its impact on environment -
 Europe is the world’s primary tourist destination, largely due to its combined natural and cultural attractiveness, as well as other economic and social features. 
  
 Tourism is of major importance to European economies, but a damaged environment could undermine tourism in the future, because tourism needs a clean and attractive environment. Therefore, it is necessary to monitor and measure the impact of tourism on the environment, and implement tourismrelated policies to ensure greater sustainability of the sector. 
  
-#Promoting sustainability of tourism - 
+##Promoting sustainability of tourism - 
 At the European level, tourism policy is mainly focussed on the competitiveness of the sector worldwide, while tourism- and environment-related policies in Europe are not about specific legislation and targets. All environmental aspects and references to the sustainability challenges of the tourism sector (which includes tourist accommodation establishments, food and beverage establishments, tourism-related transport, recreational activities, travel agencies, tour operators, etc.) are fragmented and dispersed across sector-based policies and the acquis communautaire. At the same time, many EU environmental sector-based policies, such as those on waste, water, terrestrial and marine biodiversity, air, soil and climate change, identify tourism as a sector whose environmental sustainability is becoming more and more essential. 
  
 
