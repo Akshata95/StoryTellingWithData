@@ -51,12 +51,17 @@ First geospatial graph to show the extent of tourism in Europe with respect to t
 ![image](worldmap.jpg)
 [source](https://www.unwto.org/archive/global/publication/unwto-tourism-highlights-2016-edition)
 
-Imoact of tourism on water quality -
+Showing increase in tourism in European countries from 2000 to 2015 -
+![image](arrivals.jpg)
+[source](https://www.eea.europa.eu/data-and-maps/figures#c0=15&c5=&c15=all&b_start=0)
 
+Impact of tourism on water quality -
+![image](water quality.jpg)
+[source](https://www.eea.europa.eu/data-and-maps/figures#c0=15&c5=&c15=all&b_start=0)
 
 Measures taken to make tourism more sustainable -
 Environmental certification/labelling in the tourism sector -
-![image](
+![image](certification.jpg)
 
 
 
