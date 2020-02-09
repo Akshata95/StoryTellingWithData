@@ -30,6 +30,9 @@ For the purpose of the final project, I will be creating a page using shorthand 
 I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Adobe Illustrator for possible final touches & other visualizations that I deem neccessary to convey the story.
 
 ### Finding datasets:
+The datasets are mainly for the reader to understand the imoact of tourism on environment and how it can be made sustainable. For this, we'll first analyze and see the tourism trffic in Europe to assimilate the extent of the issue.
+Then we see the impact of tourism on the environment
+
 #### To understand European tourism
 
 [Number of establishments and bed places](https://ec.europa.eu/eurostat/databrowser/bookmark/bfaa1d8e-a1d6-4e72-957b-0a32f72e32d6?lang=en)
@@ -44,5 +47,10 @@ I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualiz
 
 
 ### Sketches: 
+First geospatial graph to show the extent of tourism in Europe with respect to the world: 
+![image](/berkeleysketch.png)
+[source](https://www.unwto.org/archive/global/publication/unwto-tourism-highlights-2016-edition)
+
+
 
 
