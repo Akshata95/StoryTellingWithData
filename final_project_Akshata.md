@@ -99,23 +99,11 @@ Visualizations I showed to my interviewees:
 
 
 #### roughly the story I told the interviewees: 
-Today we're going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
-
-(PART 1 of story) 
-Highly intelligent women tend to mary men who are less intelligent than they are.
-
-why?
-
-Daniel kahneman, nobel prize winner in economics claims this not to be a causal relationship but one of pure statistics. Lets take a look at why this might be. 
-
-Youre at a bar, and youre an exceptionally smart individual. You are a statistical outlier. You see someone else at the bar who looks interesting. At this moment you're not comparing your IQ's, you just want to have good fun. Here regression to the mean comes to play; you're an outlier, the chances he is a higher outlier is lower than. This is a biased approach to this 'problem'. Here I showcase and explain the statistics)
-
-(PART 2 of story) 
-As we have seen, we sometimes try to create a story before thinking about or data statistics, and this can be dangerous as we have just seen. But what if we take a look where statistics create the story which is wrong? 
-
-(Here I showcase and the statistics regarding the Berkely case)
-
-
+Today we're looking at a story which has been supoorted by visualizations - It's with respect to sustainable tourism focusing on Europe.
+Part 1 - Why Europe has been chosen.
+Part 2 - Ever increasing source of recretion, with aid of social media.
+Part 3 - Effects it has on the environment.
+Part 4 - Mitigation actions and precautions taken.
 
 ## user-research protocol
 The key aspects I will try to uncover during the interviews are
@@ -134,35 +122,20 @@ Follow-up questions might be:
 
 
 ## individual interview 1
-Ricardo, a MISM student & friend: 
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
-Response: 
-Part 1a/1b/1c. Looks good, I like it.  You want to include the source of this data. Also put a note in the assumptions. Youre making a huge assumption. 
+Response: 1st visualization - does bring out the 51% share Europe has for all tourist arrivals and brings out the point in the first instance.
+2nd visualization - The comparison of tourist arrivals between 2000 and 2016 cn be done on the same axis insteadof two different for quicker understanding.
+3rd visualiaztion - The cameras are a little distracting since they are different, try using the same camera in different colors.
+4th visualization - you can combine rail if they are not of too much significance and you donot intend to highlight those. Use of colors for Marine and road are apt and increasing trend of marine is highlighted.
+5th visualization - You need to separate the graphs and increase the intensity of the red color. if excellent quality of water is not your focus you can choose to exclude it from the graph.
+6th visualization - you should go ahead with the geospatial depiction of certificates issued, you started with the globalmap and are concluding focusing on a particular area with a particular conclusion.
 
-//Do you think it supports the story?
-
-Response: 
-For visualization 2a: what is the acceptance rate? It is unclear what this means. There should be a note saying what this means. 
-What is 1973? (its the year). It should be more clear that it is from one year. 
-
-I dont like the regression visualization  because basically the regerssion has a lot of noise and I cannot conclude something because of the high variance. The significance is too low to conclude something. The viz does not support my conclusion. MAybe you should consider showing the variance in the mean of acceptance rate. 
-	TMI if I add the values of the specific sectors. 
-
-After asking the initial questions, Ricardo stated that the 
 ## individual interview 2
-Ken, an employee at the CS department at CMU:
-
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
 Response: 
-Title: youre doing a comparison between what people think it says 'data,', and what it actually says. If you want to be clearer about it, say 'between' instead of 'in'. 
 
-First thing: youre making an assumption; highly intelligent people drink in bars. Youre making an assumption about people in the bar. The fact that youre in a bar has no statistical significance on the people there. Your intelligence isnt related to being in a bar. Being in a bar is a third variable which youre not taking into account. 
-
-'Solution': Lets acknowledge; we dont have perfect data, this is an example and third variables are left out. 
-
-Correlation graph: I'm  not a fan. It is not super clear. Percentage of female applicants and department acceptance rate... is it for seperate departments?  X axis, is it only females accepted or everyone accepted? (Everyone, key point). I have a problem beause you're overloading this graph. Department acceptance rates: you've got multiple departments with multiple acceptance rates. Change label to admittance rate per deparment and for both sexes (overall acceptance rate per deparment). And for the y axis change it to female applicatants per department
 
 ## individual interview 3
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
