@@ -63,6 +63,160 @@ Measures taken to make tourism more sustainable -
 Environmental certification/labelling in the tourism sector - 
 ![image](certification.JPG)
 
+# Part II: final project
+I decided to increase the scope of the project after thinking about it and initial feedback from my peers. The story now consists of four elements; the tourism market in Europe, how it has grown because of influence of social media, the impact it has on water and air pollution and lastly, measures taken to make tourism sustainable. 
+
+### target audience
+My target audience are people with some general knowledge or experience with visualizations, and those who are able to or want to think critically. I would say my target audience also understands effects of tourism on the environment and importance of necessary steps to be taken in order to make tourism a sustainable source of income and recreation.  
+
+### in-detail storyboard
+Please note that this is just an indicator of the final version of the project, and the data visualizations/sources/text area's are not final (as I will probably be making changes during this&following weeks). The website was used as a storyboard visualisation for my interviewees. 
+[storyboard](https://preview.shorthand.com/K0jOnPXPOvScs055)
+
+
+#### Visualizations
+I sketched the four main visualizations for the key two parts of my story. In the sketches, the information regarding the titles/lables/sources is less relevant to me than the type of visualization, and wether it supports the visualization. These will therefore not be included in the questions for the interviewees.
+
+I decided to show the difference in acceptance rate using a barchart, and the simpsons paradox by showcasing the correlation between acceptance rate per department and percentage of female applicants. These wireframes will be shown to my interview audience with the key question being; does it support the story?
+
+
+There are 3 key takeaways in the story. 
+The first being: 
+#### False stories are sometimes created by forgetting to think about statistics or data. 
+
+The second key takeaway is: 
+#### Data can sometimes give rise to a story which might not be in line with reality. 
+
+The last takeaway is: 
+#### When visualizations are used to create a story, one should think about why the creator is trying to tell that story. 
+
+With the final message being: 
+#### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality. 
+
+
+Visualizations I showed to my interviewees: 
+[imgur link](https://imgur.com/a/bXjOHad)
+
+
+#### roughly the story I told the interviewees: 
+Today we're going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
+
+(PART 1 of story) 
+Highly intelligent women tend to mary men who are less intelligent than they are.
+
+why?
+
+Daniel kahneman, nobel prize winner in economics claims this not to be a causal relationship but one of pure statistics. Lets take a look at why this might be. 
+
+Youre at a bar, and youre an exceptionally smart individual. You are a statistical outlier. You see someone else at the bar who looks interesting. At this moment you're not comparing your IQ's, you just want to have good fun. Here regression to the mean comes to play; you're an outlier, the chances he is a higher outlier is lower than. This is a biased approach to this 'problem'. Here I showcase and explain the statistics)
+
+(PART 2 of story) 
+As we have seen, we sometimes try to create a story before thinking about or data statistics, and this can be dangerous as we have just seen. But what if we take a look where statistics create the story which is wrong? 
+
+(Here I showcase and the statistics regarding the Berkely case)
+
+
+
+## user-research protocol
+The key aspects I will try to uncover during the interviews are
+	Do the examples in the story fit the story? 
+	Do the visualizations add value to the story?
+	What might be confusing about the visualizations?
+	What would you have done differently in these visualisations? 
+	Do you feel like there is a clear message at the end of the story? 
+	
+I start my interview by stating the following questions: 
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
+
+Follow-up questions might be: 
+//What part of the graphics were confusing to you? 
+//If you were to retell this story, what would you change? 
+
+
+## individual interview 1
+Ricardo, a MISM student & friend: 
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
+
+Response: 
+Part 1a/1b/1c. Looks good, I like it.  You want to include the source of this data. Also put a note in the assumptions. Youre making a huge assumption. 
+
+//Do you think it supports the story?
+
+Response: 
+For visualization 2a: what is the acceptance rate? It is unclear what this means. There should be a note saying what this means. 
+What is 1973? (its the year). It should be more clear that it is from one year. 
+
+I dont like the regression visualization  because basically the regerssion has a lot of noise and I cannot conclude something because of the high variance. The significance is too low to conclude something. The viz does not support my conclusion. MAybe you should consider showing the variance in the mean of acceptance rate. 
+	TMI if I add the values of the specific sectors. 
+
+After asking the initial questions, Ricardo stated that the 
+## individual interview 2
+Ken, an employee at the CS department at CMU:
+
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
+
+Response: 
+Title: youre doing a comparison between what people think it says 'data,', and what it actually says. If you want to be clearer about it, say 'between' instead of 'in'. 
+
+First thing: youre making an assumption; highly intelligent people drink in bars. Youre making an assumption about people in the bar. The fact that youre in a bar has no statistical significance on the people there. Your intelligence isnt related to being in a bar. Being in a bar is a third variable which youre not taking into account. 
+
+'Solution': Lets acknowledge; we dont have perfect data, this is an example and third variables are left out. 
+
+Correlation graph: I'm  not a fan. It is not super clear. Percentage of female applicants and department acceptance rate... is it for seperate departments?  X axis, is it only females accepted or everyone accepted? (Everyone, key point). I have a problem beause you're overloading this graph. Department acceptance rates: you've got multiple departments with multiple acceptance rates. Change label to admittance rate per deparment and for both sexes (overall acceptance rate per deparment). And for the y axis change it to female applicatants per department
+
+## individual interview 3
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
+
+Response: 
+	'what do you mean by stories?'. 
+
+(In regards to the first 'question') So that means the reverse is true too?Since its true on 'both ' sides, it is not really controversial. The face value makes it look like its shallow, but is isnt really. The 'one out of twenty people ' is a good visualization to showcase this. 
+
+The bellcurve is fitting. I understand that.
+
+(When looking at tableau version of the correlation graph) What do the sizes mean? Too many things. X y and size is confusing. 
+	Maybe break it up into two graphs? 
+
+A bar graph again might be better. Per deparment the acceptance rate of women. 
+	The graph is unclear. Doesn't support the story very well. You have to look at it for a while. 
+
+The whole story is a bit confusing. I understand what you're saying. 
+
+Show both women and men acceptance rates are the same per department then you can see it better. 
+
+## Insights for changes made to sketches, storyboards & wireframes
+Well.. I'm not happy with the results. My story all over the place and my interviewees have had a hard time understanding the storyline. I feared this might be the case since I'm trying to convey multiple messages at once, and coming up with a frankensteins' monster of a conclusion. This isn't working right now, so things have to change. 
+
+In order to fit my project within the timeframe of the final presentation, I've been struggling with keeping the stories short and to the point. The problem is, since they're 'paradoxes' and 'fallacies', they are inherently tough to understand even for an educated audience. This caused my story to be going from left to right, jumping from assumptions to conlusions.The process of trying to streamline this has not been an enjoyable one, and I've been spending most of my time finding obscure examples which might fit both the story and the timeframe. In the full project on shorthand I will have the chance to underline my thoughts and assumptions, but in the presentation I will not. 
+
+The main change will be that I will be completely separating my final project and my presentation. I will create a seperate page on shorthand for the presentation which will focus on only ONE example. This page will be included (the content will be copied) to my main shorthand page for the project. *The 1973 Berkeley case will now be my main focus for the project & presentation* in order to make it a coherent story. 
+
+Changes that will be made to the project and presentation:
+- Presentation: 
+	- The berkeley 1973 admittance rate case will be the prime subject of my presentation. I have chosen this because I think this case showcases the underlying thought I'm trying to convey the best. My project story arc will have a different ending message than the presentation. I am thinking of using the famous 'There are three kinds of lies: lies, damned lies, and statistics' line popularized my Mark Twain as my ending message for the presentation. This fits the apparent Simpsons Paradox well. 
+	- I should no longer define it as statistics in the presentation story arc. I can explain this in the project, and I should define the relationship between statistics, data, visualizations and storytelling. 
+	
+- Project: 
+	- I need to vocalize the various assumptions I make better, and showcase that I'm showing examples not 'truths'.  
+	- In order to show the relationship between a data and a story, I need to visualize this. This is mainly for the presentation, as my audience needs to quickly grasp that they don't allign at all times.  
+	- For the project I will take the time to type out the assumptions, as I want the final project to read like a well thought out article. 
+	- I'm thining to completely remove the other story arcs and focussing on just the one, and maybe looking at how it is now (2019). 
+	
+Visualizations:
+	- The bell curve for the first part of the story seems to work. I'm keeping this in together with the '1 in 20' visualization. 
+	- The bar graph for the Berkeley case needs to be supported by numbers to make it more clear what it showcases. I will add a table in the graph
+	- Sources needs to be properly added to the final versions which will be made in Tableau
+	- Titles needs to be improved upon for all visualizations to tell the story. The reader goes from reading the title to trying to understand the graph, I need to focus on that. 
+	- The current visualization for the negative correlation between female applicants and acceptance rate is unclear. I need to split up what I'm trying to say and make more clear what the axis are. I have a hard time explaining it, that means that the audience will have an even harder time grasping it. 
+
+
+I have focussed on improving the visualizations to support the Berkeley case as this will be the key part of my presentation. I'm still working on the improvements but I'm very happy with the results so far. This is how I've changed the correlation graph to an actual story: 
+#### improved visualization after feedback 1: 
+![image](BerkOverallViz.png)
+
+#### improved visualization after feedback 2: 
+![image](BerkBetterViz.png)
+
 
 
 
