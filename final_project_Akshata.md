@@ -217,6 +217,6 @@ I have focussed on improving the visualizations to support the Berkeley case as 
 #### improved visualization after feedback 2: 
 ![image](BerkBetterViz.png)
 
-
+https://stackla.com/resources/blog/5-statistics-that-prove-social-media-will-influence-your-next-travel-destination/
 
 
