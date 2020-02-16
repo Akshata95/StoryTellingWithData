@@ -125,16 +125,25 @@ Follow-up questions might be:
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
 Response: 1st visualization - does bring out the 51% share Europe has for all tourist arrivals and brings out the point in the first instance.
-2nd visualization - The comparison of tourist arrivals between 2000 and 2016 cn be done on the same axis insteadof two different for quicker understanding.
+
+2nd visualization - The comparison of tourist arrivals between 2000 and 2016 cn be done on the same axis instead of two different for quicker understanding.
+
 3rd visualiaztion - The cameras are a little distracting since they are different, try using the same camera in different colors.
+
 4th visualization - you can combine rail if they are not of too much significance and you donot intend to highlight those. Use of colors for Marine and road are apt and increasing trend of marine is highlighted.
+
 5th visualization - You need to separate the graphs and increase the intensity of the red color. if excellent quality of water is not your focus you can choose to exclude it from the graph.
+
 6th visualization - you should go ahead with the geospatial depiction of certificates issued, you started with the globalmap and are concluding focusing on a particular area with a particular conclusion.
 
 ## individual interview 2
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
-Response: 
+Response: A similar reaaction for the first two visualizations. The 3rd visualization was appreciated.
+For air pollution (4th visualization) it would be better to increase the font of the axis.
+For bathing water quality (5th visualization) the grey is being ignored. otherwise it is a good representation.
+
+All your visualizations do have a flow and are relevant to the story you are telling.
 
 
 ## individual interview 3
