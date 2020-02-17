@@ -95,16 +95,16 @@ With the final message being:
 
 Visualizations I showed to my interviewees: 
 Visualization 1 : This has been made using paint
-![image]()
+![image](worldmapeurope.jpg)
 Visualization 2 :
-![image]()
+![image](arrivals.jpg)
 Visualization 3 :
 ![image]()
 Visualization 4 :
 ![image]()
 Visualization 5 :
 ![image]()
-Visualization 6 : 
+Visualization 6 : sketched as of now
 ![image]()
 
 
