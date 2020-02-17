@@ -80,35 +80,45 @@ i have a total of 6 visualizations and have worked on 5 of them. The 6 th one wi
 
 
 There are 3 key takeaways in the story. 
-The first being: 
-####  Tourism has been around since centuries but has exponentially increased because of social media. the environmental impact that tourism has on Earth is irrevocable and we need to spread awareness about the same
+#### The first being: 
 
-The second key takeaway is: 
-#### The only way to go forward is support eco tourism and sustainable tourism to protect our beautiful Earth while enjoying it's beauty.
+Tourism has been around since centuries but has exponentially increased because of social media. the environmental impact that tourism has on Earth is irrevocable and we need to spread awareness about the same
 
-The last takeaway is: 
-#### When visualizations are used to create a story, one should think about why the creator is trying to tell that story. 
+#### The second key takeaway is: 
 
-With the final message being: 
-#### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality. 
+The only way to go forward is support eco tourism and sustainable tourism to protect our beautiful Earth while enjoying it's beauty.
+
+#### The last takeaway is: 
+
+When visualizations are used to create a story, one should think about why the creator is trying to tell that story. 
+
+### With the final message being: 
+
+Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality. 
 
 
-Visualizations I showed to my interviewees: 
+### Visualizations I showed to my interviewees: 
+
 Visualization 1 : This has been made using paint
 ![image](worldmapeurope.JPG)
+
 Visualization 2 : This was made on excel 
 ![image](arrivals_image.JPG)
+
 Visualization 3 : This was made on paint and powerpoint
 ![image](social_media_1.JPG)
+
 Visualization 4 :This was made on Tableau
 ![image](air_pollution.JPG)
+
 Visualization 5 :This was made on Tableau
 ![image](water_pollution.JPG)
+
 Visualization 6 : sketched as of now
 ![image](awards.JPG)
 
 
-#### roughly the story I told the interviewees: 
+#### The story I told the interviewees: 
 Today we're looking at a story which has been supoorted by visualizations - It's with respect to sustainable tourism focusing on Europe.
 Part 1 - Why Europe has been chosen.
 Part 2 - Ever increasing source of recretion, with aid of social media.
@@ -160,14 +170,16 @@ All your visualizations do have a flow and are relevant to the story you are tel
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
 Response: 
- 
+The social media graph. Does it have something to do with girls and boys? If not then the colors are too obvious and you need to change that.
+The water pollution graph needds to be on the same axis. A significant difference wouldv'e been better for this kind of chart but since the difference isn't much, comparing them on the same axis will be more insightful.
+
+The flow is good and the visualizations are relevant. 
 
 ## Insights for changes made to sketches, storyboards & wireframes
-Well.. I'm not happy with the results. My story all over the place and my interviewees have had a hard time understanding the storyline. I feared this might be the case since I'm trying to convey multiple messages at once, and coming up with a frankensteins' monster of a conclusion. This isn't working right now, so things have to change. 
+Well.. I'm happy with the result. The interviewees had similar views which is good because it means there are structured few places i need to rectify.
 
-In order to fit my project within the timeframe of the final presentation, I've been struggling with keeping the stories short and to the point. The problem is, since they're 'paradoxes' and 'fallacies', they are inherently tough to understand even for an educated audience. This caused my story to be going from left to right, jumping from assumptions to conlusions.The process of trying to streamline this has not been an enjoyable one, and I've been spending most of my time finding obscure examples which might fit both the story and the timeframe. In the full project on shorthand I will have the chance to underline my thoughts and assumptions, but in the presentation I will not. 
+In order to fit my project within the timeframe of the final presentation, I've been struggling with keeping the stories short and to the point. 
 
-The main change will be that I will be completely separating my final project and my presentation. I will create a seperate page on shorthand for the presentation which will focus on only ONE example. This page will be included (the content will be copied) to my main shorthand page for the project. *The 1973 Berkeley case will now be my main focus for the project & presentation* in order to make it a coherent story. 
 
 Changes that will be made to the project and presentation:
 - Presentation: 
@@ -188,13 +200,12 @@ Visualizations:
 	- The current visualization for the negative correlation between female applicants and acceptance rate is unclear. I need to split up what I'm trying to say and make more clear what the axis are. I have a hard time explaining it, that means that the audience will have an even harder time grasping it. 
 
 
-I have focussed on improving the visualizations to support the Berkeley case as this will be the key part of my presentation. I'm still working on the improvements but I'm very happy with the results so far. This is how I've changed the correlation graph to an actual story: 
-#### improved visualization after feedback 1: 
-Visualization 3 : This was made on paint and powerpoint
+I have focussed on improving the visualizations to support the certifications offered and probably a few more mitigation actions taken to promote eco tourism. I'm still working on the improvements but I'm very happy with the results so far. 
+#### improved visualization after feedback  
+Visualization 3 : Color chart changed slightly so as to not give the reader any pre-conceived notions
 ![image](socil_media_2.JPG)
 
-#### improved visualization after feedback 2: 
-Visualization 2 : This was made on excel 
+Visualization 2 : As all interviewees suggested it to be on the same axis for ease of understanding, the following change was made -
 ![image](arrivals_2.JPG)
 
 https://stackla.com/resources/blog/5-statistics-that-prove-social-media-will-influence-your-next-travel-destination/
