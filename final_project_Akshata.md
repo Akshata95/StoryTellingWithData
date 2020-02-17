@@ -95,11 +95,11 @@ With the final message being:
 
 Visualizations I showed to my interviewees: 
 Visualization 1 : This has been made using paint
-![image](worldmapeurope.jpg)
+![image](worldmapeurope.JPG)
 Visualization 2 : This was made on excel 
-![image](arrivals.jpg)
+![image](TOURIST ARRIVALS.jpg)
 Visualization 3 : This was made on paint and powerpoint
-![image]()
+![image](social media 1.JPG)
 Visualization 4 :This was made on Tableau
 ![image](air pollution.JPG)
 Visualization 5 :This was made on Tableau
