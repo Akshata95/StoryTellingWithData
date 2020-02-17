@@ -97,7 +97,7 @@ Visualizations I showed to my interviewees:
 Visualization 1 : This has been made using paint
 ![image](worldmapeurope.JPG)
 Visualization 2 : This was made on excel 
-![image](arrivals_image.jpg)
+![image](arrivals_image.JPG)
 Visualization 3 : This was made on paint and powerpoint
 ![image](social_media_1.JPG)
 Visualization 4 :This was made on Tableau
@@ -191,11 +191,11 @@ Visualizations:
 I have focussed on improving the visualizations to support the Berkeley case as this will be the key part of my presentation. I'm still working on the improvements but I'm very happy with the results so far. This is how I've changed the correlation graph to an actual story: 
 #### improved visualization after feedback 1: 
 Visualization 3 : This was made on paint and powerpoint
-![image](social_media_2.JPG)
+![image](socil_media_2.JPG)
 
 #### improved visualization after feedback 2: 
 Visualization 2 : This was made on excel 
-![image](arrivals_2.jpg)
+![image](arrivals_2.JPG)
 
 https://stackla.com/resources/blog/5-statistics-that-prove-social-media-will-influence-your-next-travel-destination/
 
