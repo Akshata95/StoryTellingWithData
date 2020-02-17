@@ -107,12 +107,14 @@ Visualization 2 : This was made on excel
 
 Visualization 3 : This was made on paint and powerpoint
 ![image](social_media_1.JPG)
+[source](https://stackla.com/resources/blog/5-statistics-that-prove-social-media-will-influence-your-next-travel-destination/)
 
 Visualization 4 :This was made on Tableau
 ![image](air_pollution.JPG)
 
 Visualization 5 :This was made on Tableau
 ![image](water_pollution.JPG)
+[source](https://www.eea.europa.eu/data-and-maps/data/bathing-water-directive-status-of-bathing-water-7)
 
 Visualization 6 : sketched as of now
 ![image](awards.JPG)
@@ -180,34 +182,27 @@ Well.. I'm happy with the result. The interviewees had similar views which is go
 
 In order to fit my project within the timeframe of the final presentation, I've been struggling with keeping the stories short and to the point. 
 
-
-Changes that will be made to the project and presentation:
-- Presentation: 
-	- The berkeley 1973 admittance rate case will be the prime subject of my presentation. I have chosen this because I think this case showcases the underlying thought I'm trying to convey the best. My project story arc will have a different ending message than the presentation. I am thinking of using the famous 'There are three kinds of lies: lies, damned lies, and statistics' line popularized my Mark Twain as my ending message for the presentation. This fits the apparent Simpsons Paradox well. 
-	- I should no longer define it as statistics in the presentation story arc. I can explain this in the project, and I should define the relationship between statistics, data, visualizations and storytelling. 
-	
+Changes that will be made to the project and presentation:	
 - Project: 
-	- I need to vocalize the various assumptions I make better, and showcase that I'm showing examples not 'truths'.  
+	- I need to vocalize the various assumptions I make better.  
 	- In order to show the relationship between a data and a story, I need to visualize this. This is mainly for the presentation, as my audience needs to quickly grasp that they don't allign at all times.  
 	- For the project I will take the time to type out the assumptions, as I want the final project to read like a well thought out article. 
-	- I'm thining to completely remove the other story arcs and focussing on just the one, and maybe looking at how it is now (2019). 
 	
 Visualizations:
-	- The bell curve for the first part of the story seems to work. I'm keeping this in together with the '1 in 20' visualization. 
-	- The bar graph for the Berkeley case needs to be supported by numbers to make it more clear what it showcases. I will add a table in the graph
+	- The arrivals comparison needs to be changed to the same axis.
 	- Sources needs to be properly added to the final versions which will be made in Tableau
 	- Titles needs to be improved upon for all visualizations to tell the story. The reader goes from reading the title to trying to understand the graph, I need to focus on that. 
-	- The current visualization for the negative correlation between female applicants and acceptance rate is unclear. I need to split up what I'm trying to say and make more clear what the axis are. I have a hard time explaining it, that means that the audience will have an even harder time grasping it. 
+	- The current visualization for the social media gives pre-conceiveed notions about it being for girls and boys.
 
-
-I have focussed on improving the visualizations to support the certifications offered and probably a few more mitigation actions taken to promote eco tourism. I'm still working on the improvements but I'm very happy with the results so far. 
+I'm still working on the improvements but I'm very happy with the results so far. 
 #### improved visualization after feedback  
 Visualization 3 : Color chart changed slightly so as to not give the reader any pre-conceived notions
 ![image](socil_media_2.JPG)
+[source](https://stackla.com/resources/blog/5-statistics-that-prove-social-media-will-influence-your-next-travel-destination/)
 
 Visualization 2 : As all interviewees suggested it to be on the same axis for ease of understanding, the following change was made -
 ![image](arrivals_2.JPG)
 
-https://stackla.com/resources/blog/5-statistics-that-prove-social-media-will-influence-your-next-travel-destination/
+
 
 
