@@ -70,22 +70,21 @@ I decided to increase the scope of the project after thinking about it and initi
 My target audience are people with some general knowledge or experience with visualizations, and those who are able to or want to think critically. I would say my target audience also understands effects of tourism on the environment and importance of necessary steps to be taken in order to make tourism a sustainable source of income and recreation.  
 
 ### in-detail storyboard
-Please note that this is just an indicator of the final version of the project, and the data visualizations/sources/text area's are not final (as I will probably be making changes during this&following weeks). The website was used as a storyboard visualisation for my interviewees. 
-[storyboard](https://preview.shorthand.com/K0jOnPXPOvScs055)
+Please note that this is just an indicator of the final version of the project, and the data visualizations/sources/text area's are not final (as I will probably be making changes during this & following weeks). This was used as a storyboard visualisation for my interviewees. 
+[storyboard](https://preview.shorthand.com/mJibOZl0ZJ1dOuRX)
 
 
 #### Visualizations
-I sketched the four main visualizations for the key two parts of my story. In the sketches, the information regarding the titles/lables/sources is less relevant to me than the type of visualization, and wether it supports the visualization. These will therefore not be included in the questions for the interviewees.
+i have a total of 6 visualizations and have worked on 5 of them. The 6 th one will either be a geospatial map providing insight about the actins taken to make tourism more sustainable.
 
-I decided to show the difference in acceptance rate using a barchart, and the simpsons paradox by showcasing the correlation between acceptance rate per department and percentage of female applicants. These wireframes will be shown to my interview audience with the key question being; does it support the story?
 
 
 There are 3 key takeaways in the story. 
 The first being: 
-#### False stories are sometimes created by forgetting to think about statistics or data. 
+####  Tourism has been around since centuries but has exponentially increased because of social media. the environmental impact that tourism has on Earth is irrevocable and we need to spread awareness about the same
 
 The second key takeaway is: 
-#### Data can sometimes give rise to a story which might not be in line with reality. 
+#### The only way to go forward is support eco tourism and sustainable tourism to protect our beautiful Earth while enjoying it's beauty.
 
 The last takeaway is: 
 #### When visualizations are used to create a story, one should think about why the creator is trying to tell that story. 
@@ -95,7 +94,18 @@ With the final message being:
 
 
 Visualizations I showed to my interviewees: 
-[imgur link](https://imgur.com/a/bXjOHad)
+Visualization 1 : This has been made using paint
+![image]()
+Visualization 2 :
+![image]()
+Visualization 3 :
+![image]()
+Visualization 4 :
+![image]()
+Visualization 5 :
+![image]()
+Visualization 6 : 
+![image]()
 
 
 #### roughly the story I told the interviewees: 
@@ -150,21 +160,7 @@ All your visualizations do have a flow and are relevant to the story you are tel
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
 Response: 
-	'what do you mean by stories?'. 
-
-(In regards to the first 'question') So that means the reverse is true too?Since its true on 'both ' sides, it is not really controversial. The face value makes it look like its shallow, but is isnt really. The 'one out of twenty people ' is a good visualization to showcase this. 
-
-The bellcurve is fitting. I understand that.
-
-(When looking at tableau version of the correlation graph) What do the sizes mean? Too many things. X y and size is confusing. 
-	Maybe break it up into two graphs? 
-
-A bar graph again might be better. Per deparment the acceptance rate of women. 
-	The graph is unclear. Doesn't support the story very well. You have to look at it for a while. 
-
-The whole story is a bit confusing. I understand what you're saying. 
-
-Show both women and men acceptance rates are the same per department then you can see it better. 
+ 
 
 ## Insights for changes made to sketches, storyboards & wireframes
 Well.. I'm not happy with the results. My story all over the place and my interviewees have had a hard time understanding the storyline. I feared this might be the case since I'm trying to convey multiple messages at once, and coming up with a frankensteins' monster of a conclusion. This isn't working right now, so things have to change. 
