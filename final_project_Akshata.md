@@ -96,16 +96,16 @@ With the final message being:
 Visualizations I showed to my interviewees: 
 Visualization 1 : This has been made using paint
 ![image](worldmapeurope.jpg)
-Visualization 2 :
+Visualization 2 : This was made on excel 
 ![image](arrivals.jpg)
-Visualization 3 :
+Visualization 3 : This was made on paint and powerpoint
 ![image]()
-Visualization 4 :
-![image]()
-Visualization 5 :
-![image]()
+Visualization 4 :This was made on Tableau
+![image](air pollution.JPG)
+Visualization 5 :This was made on Tableau
+![image](water pollution.JPG)
 Visualization 6 : sketched as of now
-![image]()
+![image](awards.JPG)
 
 
 #### roughly the story I told the interviewees: 
