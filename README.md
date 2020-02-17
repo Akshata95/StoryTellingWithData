@@ -2,7 +2,7 @@
 # Akshata Punganur - portfolio 
 This is my public portfolio for the Telling Stores with Data class at CMU!
 
-## [The final project can be found here](final_project_Akshata.md)
+## [The final project can be found here](https://akshata95.github.io/StoryTellingWithData/final_project_Akshata.md)
 
 ### About me
 Namaste! My name is Akshata Punganur, I'm currently a Master's in Information Systems Management student in the Business Intelligence and Data Analytics track. I have a work experience of over two years as an analyst in the financial sector. Most of my professional experience can be found on my [LinkedIn Profile](https://www.linkedin.com/in/akshatapunganur/), which I encourage you to check out!
