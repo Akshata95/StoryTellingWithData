@@ -1,6 +1,7 @@
 [Back](https://akshata95.github.io/StoryTellingWithData)
 [Part 1](final_project_Akshata.md)
-# Final project - Tourism and the Environment - part 1 
+# Final project - Tourism and the Environment - part 1 (<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/sustainable-tourism/"><h1>SUSTAINABLE TOURISM</h1><p>(focusing on Europe)</p></div>)
 
 ### Project outline & proposal
 Tourism has always been – from a historical perspective – a societal response to the human need for
