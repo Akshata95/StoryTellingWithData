@@ -232,8 +232,20 @@ You can find the final project [here](https://carnegiemellon.shorthandstories.co
 **important note:** 
 
 *References:*
+Inspiration for World Map illustration - [UNWTO](UNWTO - United Nations World Tourism Organization, 2017, UNWTO Tourism highlights 2017 edition, Madrid.)  
+Tourist Arrivals datasets - [Link](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics)
+Social Media 1 - [Link]
+Social Media 2 - [Link]
+Social Media 3 - [Link]
+Increase in carbon-di-oxide levels - [Link](https://www.eea.europa.eu/publications/air-quality-in-europe-2016)
+Bathing water quality - [Link](https://www.eea.europa.eu/publications/european-bathing-water-quality-2015)
+Blue Flags Environmental certification - [Link] 
 
-For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article](). [The paper](http://www.sepa.gov.rs/download/strano/ETC_TOUERM_report_2018.pdf) was also used as a reference for creating some elements of the general storyline.
+Introduction source - [Link]
+Effect of social media sources - [Link]
+Call to action sources - [Link]
+
+For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article]().  was also used as a reference for creating some elements of the general storyline.
 
 
 
