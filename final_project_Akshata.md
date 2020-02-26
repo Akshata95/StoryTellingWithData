@@ -232,30 +232,64 @@ You can find the final project [here](https://carnegiemellon.shorthandstories.co
 **important note:** 
 
 *References:*
+
+
 Inspiration for World Map illustration - [UNWTO](UNWTO - United Nations World Tourism Organization, 2017, UNWTO Tourism highlights 2017 edition, Madrid.)  
+
+
 Tourist Arrivals datasets - [Link](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics)
+
+
 Social Media 1 - [Link](http://fredericgonzalo.com/en/2018/06/04/the-impact-of-social-media-in-travel-infographic/)
+
+
 Social Media 2 - [Report](https://stackla.com/wp-content/uploads/2019/02/Data-Report-2019-FINAL-FINAL.pdf)
+
+
 Social Media 3 - [Report](https://stackla.com/wp-content/uploads/2019/02/Data-Report-2019-FINAL-FINAL.pdf)
+
+
 Increase in carbon-di-oxide levels - [Link](https://www.eea.europa.eu/publications/air-quality-in-europe-2016)
+
+
 Bathing water quality - [Link](https://www.eea.europa.eu/publications/european-bathing-water-quality-2015)
+
+
 Blue Flags Environmental certification - [Link] 
 
 Introduction source - 
+
+
 [Link]()
+
+
 [Link]()
+
+
 [Link]()
 
 
 Effect of social media sources - 
-[Link]()
-[Link]()
+
+
 [Link]()
 
 
-Call to action sources - [Link]
 [Link]()
+
+
 [Link]()
+
+
+Call to action sources - 
+
+
+[Link]()
+
+
+[Link]()
+
+
 [Link]()
 
 
