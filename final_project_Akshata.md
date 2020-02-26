@@ -1,7 +1,9 @@
 [Back](https://akshata95.github.io/StoryTellingWithData)
 [Part 1](final_project_Akshata.md)
-# Final project - Tourism and the Environment - part 1 (<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/sustainable-tourism/"><h1>SUSTAINABLE TOURISM</h1><p>(focusing on Europe)</p></div>)
+
+## You can find the final project [here](https://carnegiemellon.shorthandstories.com/sustainable-tourism/index.html)
+
+# Part 1 
 
 ### Project outline & proposal
 Tourism has always been – from a historical perspective – a societal response to the human need for
@@ -203,6 +205,45 @@ Visualization 3 : Color chart changed slightly so as to not give the reader any 
 
 Visualization 2 : As all interviewees suggested it to be on the same axis for ease of understanding, the following change was made -
 ![image](arrivals_2.JPG)
+
+# Part III & IV: final project
+#### Work, final decisions, observations &* audience
+A major change has been made from the last iteration of the final project; the focus is now on call to action. This is because I observed the audience to find 3 story arcs too much. The fact that we're dealing withn the Simpson's Paradox is something which I deemed less significant, and has been made a small element on the story instead of the main element. 
+
+In the first feedback round, it was clear to me that my original correlation plot wasn't working and wasn't enough to tell the story. In the additional in-class feedback session, it became clear that the first bar graph from the last wireframe in section II wasn't clear enough. I added a male and female bathroom sign, and flipped the axis to make it more coherent. The work was made in Tableau, with certain emelemnts (the bathroom signs) edited in Adobe Illustrator. 
+
+The intended audience was formulated to be an average New York Times reader in part II of the final project. As my view regarding the project has shifted, so has my view of the intended audience. Since the focus has been on multiple fallacies before, and is now on explaining a single fallacy, the average knowledge from the audience regarding statistics and visualizations has been reduced. Simple knowledge about barcharts and percentages is enough to understand the story. 
+
+The intended audience is therefore those who are interested in learning more about statistical fallacies, as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. Sex bias stories get a lot of attention in media as of a few years, but this story underlines that sexism and sex bias is sometimes *not* the case. Hopefully the audience expecting a bashdown on 'males who get admitted more often' are surprised by the 'twist' of the story, and are therefore interested in learning more about statistics, data and stories. 
+
+#### Executive summary
+In the fall of 1973, the UC Berkeley admittance rates between sexes were significantly different. The question arose whether or not this is a case of gender bias, discrimination, or if this is caused by other factors. It turns out the aggregated data tells a different story from the non-aggregated data. This was a case of the Simpson's Paradox, as it turned out women tended to apply to departments which were diffcult to get into, more often. The admittance rates were quite similiar if looked at on a per-department basis. This shows that statistics and data can't always be trusted. Call to action: "There are three type of lies: lies, damned lies and statistics" -Mark Twain. Think critically. 
+
+#### Major elements
+The story arc consists of four major visual elements to support the general story. It starts with the 44% 35% visualization to showcase the aggregated 'fallacy-fied' data: 
+![image](firstImage.png)
+Next, it shows the main visualization which showcases the statistical fallacy. 
+![image](BerkeleyMainStory.png)
+Finally, the key visualizations to get back to the aggregated data, which encloses the story arc in a circle. In case the audience member has not yet had their 'oh! I see'-moment, these visualizations should incur that. 
+![image](BerkeleyWomenAggregate.png)
+![image](BerkeleyMenAggregate.png)
+
+#### Final work
+*Final story link:*
+
+You can find the final project [here](https://carnegiemellon.shorthandstories.com/sustainable-tourism/index.html).
+**important note:** 
+
+*References:*
+
+For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf). [The paper](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf) was also used as a reference for creating some elements of the general storyline.
+
+The following [Pexels photo](https://www.pexels.com/photo/accomplishment-ceremony-education-graduation-267885/) was added to the shorthand. The following illustrations were used: [male bathroom sign](https://upload.wikimedia.org/wikipedia/en/b/bb/Male_Bathroom_Symbol.png) and [female bathroom sign](https://upload.wikimedia.org/wikipedia/commons/e/e3/Toilet_women.svg)
+
+The visualizations were created with a combination of Adobe Illustrator and Tableau. 
+
+
+[Back](https://portfolio.jakobs.dev)
 
 
 
