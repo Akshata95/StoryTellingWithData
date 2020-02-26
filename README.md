@@ -13,7 +13,7 @@ To get a better understanding of how to use data visualizations in a professiona
 # Portfolio
 
 ### Behind the scenes look regarding the final Project, Finding truth in statistics: 
-[Project: Behind the scences](final.md)
+[Project: Behind the scences](final_project_Akshata.md)
 
 *Summary:*
 Tourism is of major importance to economies in Europe, but a damaged environment could undermine tourism in the future, because tourism needs a clean and attractive environment. Therefore, it is necessary to monitor and measure the impact of tourism on the environment, and implement tourism related policies to ensure greater sustainability of the sector. 
