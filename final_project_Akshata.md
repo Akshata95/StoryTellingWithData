@@ -241,11 +241,22 @@ Increase in carbon-di-oxide levels - [Link](https://www.eea.europa.eu/publicatio
 Bathing water quality - [Link](https://www.eea.europa.eu/publications/european-bathing-water-quality-2015)
 Blue Flags Environmental certification - [Link] 
 
-Introduction source - [Link]
-Effect of social media sources - [Link]
-Call to action sources - [Link]
+Introduction source - 
+[Link]()
+[Link]()
+[Link]()
 
-For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article]().  was also used as a reference for creating some elements of the general storyline.
+
+Effect of social media sources - 
+[Link]()
+[Link]()
+[Link]()
+
+
+Call to action sources - [Link]
+[Link]()
+[Link]()
+[Link]()
 
 
 
