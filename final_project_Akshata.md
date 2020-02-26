@@ -233,14 +233,14 @@ You can find the final project [here](https://carnegiemellon.shorthandstories.co
 
 *References:*
 
-For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article](http://www.sepa.gov.rs/download/strano/ETC_TOUERM_report_2018.pdf). [The paper](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf) was also used as a reference for creating some elements of the general storyline.
-
-The following [Pexels photo](https://www.pexels.com/photo/accomplishment-ceremony-education-graduation-267885/) was added to the shorthand. The following illustrations were used: [male bathroom sign](https://upload.wikimedia.org/wikipedia/en/b/bb/Male_Bathroom_Symbol.png) and [female bathroom sign](https://upload.wikimedia.org/wikipedia/commons/e/e3/Toilet_women.svg)
-
-The visualizations were created with a combination of Adobe Illustrator and Tableau. 
+For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article](). [The paper](http://www.sepa.gov.rs/download/strano/ETC_TOUERM_report_2018.pdf) was also used as a reference for creating some elements of the general storyline.
 
 
-[Back](https://portfolio.jakobs.dev)
+
+The visualizations were created with a combination of Paint and Tableau. 
+
+
+[Back](https://akshata95.github.io/StoryTellingWithData)
 
 
 
