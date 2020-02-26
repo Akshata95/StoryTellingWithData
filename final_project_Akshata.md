@@ -32,8 +32,8 @@ For the purpose of the final project, I will be creating a page using shorthand 
 I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Adobe Illustrator for possible final touches & other visualizations that I deem neccessary to convey the story.
 
 ### Finding datasets:
-The datasets are mainly for the reader to understand the imoact of tourism on environment and how it can be made sustainable. For this, we'll first analyze and see the tourism trffic in Europe to assimilate the extent of the issue.
-Then we see the impact of tourism on the environment
+The datasets are mainly for the reader to understand the imoact of tourism on environment and how it can be made sustainable. For this, we'll first analyze and see the tourism traffic in Europe to assimilate the extent of the issue.
+Then we see the impact of tourism on the environment and suggest mitigation tasks to make tourism sustainaable.
 
 #### To understand European tourism
 
@@ -79,7 +79,6 @@ Please note that this is just an indicator of the final version of the project, 
 
 #### Visualizations
 i have a total of 6 visualizations and have worked on 5 of them. The 6 th one will either be a geospatial map providing insight about the actins taken to make tourism more sustainable.
-
 
 
 There are 3 key takeaways in the story. 
@@ -210,9 +209,7 @@ Visualization 2 : As all interviewees suggested it to be on the same axis for ea
 #### Work, final decisions, observations &* audience
 A major change has been made from the last iteration of the final project; the focus is now on call to action. This is because I observed the audience to find 3 story arcs too much. The fact that we're dealing withn the Simpson's Paradox is something which I deemed less significant, and has been made a small element on the story instead of the main element. 
 
-In the first feedback round, it was clear to me that my original correlation plot wasn't working and wasn't enough to tell the story. In the additional in-class feedback session, it became clear that the first bar graph from the last wireframe in section II wasn't clear enough. I added a male and female bathroom sign, and flipped the axis to make it more coherent. The work was made in Tableau, with certain emelemnts (the bathroom signs) edited in Adobe Illustrator. 
-
-The intended audience was formulated to be an average New York Times reader in part II of the final project. As my view regarding the project has shifted, so has my view of the intended audience. Since the focus has been on multiple fallacies before, and is now on explaining a single fallacy, the average knowledge from the audience regarding statistics and visualizations has been reduced. Simple knowledge about barcharts and percentages is enough to understand the story. 
+In the first feedback round, it was clear to me that my original  The work was made in Tableau, with certain emelemnts (the bathroom signs) edited in Adobe Illustrator. 
 
 The intended audience is therefore those who are interested in learning more about statistical fallacies, as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. Sex bias stories get a lot of attention in media as of a few years, but this story underlines that sexism and sex bias is sometimes *not* the case. Hopefully the audience expecting a bashdown on 'males who get admitted more often' are surprised by the 'twist' of the story, and are therefore interested in learning more about statistics, data and stories. 
 
@@ -236,7 +233,7 @@ You can find the final project [here](https://carnegiemellon.shorthandstories.co
 
 *References:*
 
-For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf). [The paper](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf) was also used as a reference for creating some elements of the general storyline.
+For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article](http://www.sepa.gov.rs/download/strano/ETC_TOUERM_report_2018.pdf). [The paper](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf) was also used as a reference for creating some elements of the general storyline.
 
 The following [Pexels photo](https://www.pexels.com/photo/accomplishment-ceremony-education-graduation-267885/) was added to the shorthand. The following illustrations were used: [male bathroom sign](https://upload.wikimedia.org/wikipedia/en/b/bb/Male_Bathroom_Symbol.png) and [female bathroom sign](https://upload.wikimedia.org/wikipedia/commons/e/e3/Toilet_women.svg)
 
