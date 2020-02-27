@@ -29,10 +29,10 @@ At the European level, tourism policy is mainly focussed on the competitiveness 
 
 ### Choosing the methodology 
 For the purpose of the final project, I will be creating a page using shorthand as a platform. 
-I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Adobe Illustrator for possible final touches & other visualizations that I deem neccessary to convey the story.
+I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Paint for possible final touches & other visualizations that I deem neccessary to convey the story.
 
 ### Finding datasets:
-The datasets are mainly for the reader to understand the imoact of tourism on environment and how it can be made sustainable. For this, we'll first analyze and see the tourism traffic in Europe to assimilate the extent of the issue.
+The datasets are mainly for the reader to understand the impact of tourism on environment and how it can be made sustainable. For this, we'll first analyze and see the tourism traffic in Europe to assimilate the extent of the issue.
 Then we see the impact of tourism on the environment and suggest mitigation tasks to make tourism sustainaable.
 
 #### To understand European tourism
@@ -78,13 +78,13 @@ Please note that this is just an indicator of the final version of the project, 
 
 
 #### Visualizations
-i have a total of 6 visualizations and have worked on 5 of them. The 6 th one will either be a geospatial map providing insight about the actins taken to make tourism more sustainable.
+i have a total of 6 visualizations and have worked on 5 of them. The 6 th one will be a geospatial map providing insight about the actions taken to make tourism more sustainable.
 
 
 There are 3 key takeaways in the story. 
 #### The first being: 
 
-Tourism has been around since centuries but has exponentially increased because of social media. the environmental impact that tourism has on Earth is irrevocable and we need to spread awareness about the same
+Tourism has been around since centuries but has exponentially increased because of social media. The environmental impact that tourism has on Earth is irrevocable and we need to spread awareness about the same
 
 #### The second key takeaway is: 
 
