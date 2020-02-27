@@ -209,12 +209,17 @@ Visualization 2 : As all interviewees suggested it to be on the same axis for ea
 #### Work, final decisions, observations &* audience
 A major change has been made from the last iteration of the final project; the focus is now on call to action. This is because I observed the audience to find 3 story arcs too much. The fact that we're dealing withn the Simpson's Paradox is something which I deemed less significant, and has been made a small element on the story instead of the main element. 
 
-In the first feedback round, it was clear to me that my original  The work was made in Tableau, with certain emelemnts (the bathroom signs) edited in Adobe Illustrator. 
+In the first feedback round, it was clear to me that my original nneded to be tweaked. After making the changes The work was made in Tableau, with certain elements (the camera graph  and social media influence images) edited in Paint. 
 
-The intended audience is therefore those who are interested in learning more about statistical fallacies, as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. Sex bias stories get a lot of attention in media as of a few years, but this story underlines that sexism and sex bias is sometimes *not* the case. Hopefully the audience expecting a bashdown on 'males who get admitted more often' are surprised by the 'twist' of the story, and are therefore interested in learning more about statistics, data and stories. 
+The intended audience is therefore those who are interested in learning more about impact of social media on tourism and in turn on environment , as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. 
 
 #### Executive summary
-In the fall of 1973, the UC Berkeley admittance rates between sexes were significantly different. The question arose whether or not this is a case of gender bias, discrimination, or if this is caused by other factors. It turns out the aggregated data tells a different story from the non-aggregated data. This was a case of the Simpson's Paradox, as it turned out women tended to apply to departments which were diffcult to get into, more often. The admittance rates were quite similiar if looked at on a per-department basis. This shows that statistics and data can't always be trusted. Call to action: "There are three type of lies: lies, damned lies and statistics" -Mark Twain. Think critically. 
+Tourism has always been – from a historical perspective – a societal response to the human need for wellbeing and personal development, through interaction with other people and the environment. Globally, demand for tourism and recreation opportunities has grown steadily over the last decades and tourism development, beyond its contribution to national economies, is a major driving force that impacts essential environmental assets (air, water, biodiversity, soil, land), both in tourist destinations (locally) and on a global scale. 
+ 
+The surge in specific types of tourism (ex. cruise tourism) and the increased frequency of holidays due to impact of social media have serious environmental impacts at the regional and local level, also depending on the seasonality of tourist flows. Particularly, major tourist destinations are faced with challenges related to water supply, pressure on local water sources, waste generation and management, as well as wastewater generation and treatment, which may exceed, in some cases, the carrying capacity of the territories (especially small and medium-sized islands). Also, land take and soil sealing, air and noise pollution from local means of transport, as well as visual pollution by the ever-expanding built-up areas, represent other – quite common – traceable consequences of tourism development. 
+ 
+Tourism is of major importance to European economies, but a damaged environment could undermine tourism in the future, because tourism needs a clean and attractive environment. Therefore, it is necessary to monitor and measure the impact of tourism on the environment, and implement tourismrelated policies to ensure greater sustainability of the sector. 
+ 
 
 #### Major elements
 The story arc consists of four major visual elements to support the general story. It starts with the 44% 35% visualization to showcase the aggregated 'fallacy-fied' data: 
@@ -234,7 +239,7 @@ You can find the final project [here](https://carnegiemellon.shorthandstories.co
 *References:*
 
 
-Inspiration for World Map illustration - [UNWTO](UNWTO - United Nations World Tourism Organization, 2017, UNWTO Tourism highlights 2017 edition, Madrid.)  
+Inspiration for World Map illustration - [UNWTO](https://www.e-unwto.org/doi/pdf/10.18111/9789284419029)  
 
 
 Tourist Arrivals datasets - [Link](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics)
@@ -254,9 +259,6 @@ Increase in carbon-di-oxide levels - [Link](https://www.eea.europa.eu/publicatio
 
 Bathing water quality - [Link](https://www.eea.europa.eu/publications/european-bathing-water-quality-2015)
 
-
-Blue Flags Environmental certification - [Link] 
-
 Introduction source - 
 
 
@@ -269,28 +271,14 @@ Introduction source -
 [Link]()
 
 
-Effect of social media sources - 
-
-
-[Link]()
-
-
-[Link]()
-
-
-[Link]()
-
-
 Call to action sources - 
+[Nearly Zero Energy Hotels](https://ec.europa.eu/energy/intelligent/projects/en/projects/nezeh)
 
 
-[Link]()
+[Link](https://www.tandfonline.com/doi/abs/10.1080/09669582.2015.1008500)
 
 
-[Link]()
-
-
-[Link]()
+[Blue Flag Certification](https://planbleu.org/sites/default/files/publications/3-8-en_synthesesardaigne.pdf)
 
 
 
