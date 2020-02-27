@@ -1,5 +1,4 @@
 [Back](https://akshata95.github.io/StoryTellingWithData)
-[Part 1](final_project_Akshata.md)
 
 ## You can find the final project [here](https://carnegiemellon.shorthandstories.com/sustainable-tourism/index.html)
 
