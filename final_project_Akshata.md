@@ -222,11 +222,18 @@ Tourism is of major importance to European economies, but a damaged environment 
  
 
 #### Major elements
-The story arc consists of four major visual elements to support the general story. It starts with the 44% 35% visualization to showcase the aggregated 'fallacy-fied' data: 
-![image](firstImage.png)
-Next, it shows the main visualization which showcases the statistical fallacy. 
-![image](BerkeleyMainStory.png)
-Finally, the key visualizations to get back to the aggregated data, which encloses the story arc in a circle. In case the audience member has not yet had their 'oh! I see'-moment, these visualizations should incur that. 
+The story arc consists of four major visual elements to support the general story. It starts with the choice of Europe since its the primary tourist destination
+
+![image](worldmapeurope.JPG)
+
+Next, it shows the the impact of social media on tourism. 
+
+Next, we see how tourism has affected air and water in Europe over the years
+![image](air_pollution.JPG)
+
+![image](water_pollution.JPG)
+
+Finally, the key visualizations that promote eco-tourism adn the call to action. In case the audience member has not yet had their 'oh! I see'-moment, these visualizations should incur that. 
 ![image](BerkeleyWomenAggregate.png)
 ![image](BerkeleyMenAggregate.png)
 
@@ -259,18 +266,6 @@ Increase in carbon-di-oxide levels - [Link](https://www.eea.europa.eu/publicatio
 
 Bathing water quality - [Link](https://www.eea.europa.eu/publications/european-bathing-water-quality-2015)
 
-Introduction source - 
-
-
-[Link]()
-
-
-[Link]()
-
-
-[Link]()
-
-
 Call to action sources - 
 [Nearly Zero Energy Hotels](https://ec.europa.eu/energy/intelligent/projects/en/projects/nezeh)
 
@@ -279,7 +274,6 @@ Call to action sources -
 
 
 [Blue Flag Certification](https://planbleu.org/sites/default/files/publications/3-8-en_synthesesardaigne.pdf)
-
 
 
 The visualizations were created with a combination of Paint and Tableau. 
