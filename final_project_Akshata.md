@@ -222,23 +222,24 @@ Tourism is of major importance to European economies, but a damaged environment 
  
 
 #### Major elements
-The story arc consists of four major visual elements to support the general story. It starts with the choice of Europe since its the primary tourist destination
+##### The story arc consists of four major visual elements to support the general story. It starts with the choice of Europe since its the primary tourist destination
 
 ![image](worldmapeurope.JPG)
 
-Next, it shows the the impact of social media on tourism. 
+##### Next, it shows the the impact of social media on tourism. 
 ![image](mobile_influence_pic.jpg)
 ![image](mobile_influence_3.jpg)
 ![image](socil_media_2.JPG)
 
-Next, we see how tourism has affected air and water in Europe over the years
+##### Next, we see how tourism has affected air and water in Europe over the years
+
 ![image](air_pollution.JPG)
 
 ![image](water_pollution.JPG)
 
-Finally, the key visualizations that promote eco-tourism adn the call to action. In case the audience member has not yet had their 'oh! I see'-moment, these visualizations should incur that. 
+##### Finally, the key visualizations that promote eco-tourism adn the call to action. In case the audience member has not yet had their 'oh! I see'-moment, these visualizations should incur that.
+
 ![image](BerkeleyWomenAggregate.png)
-![image](BerkeleyMenAggregate.png)
 
 #### Final work
 *Final story link:*
