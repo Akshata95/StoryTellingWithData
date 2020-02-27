@@ -233,13 +233,15 @@ Tourism is of major importance to European economies, but a damaged environment 
 
 ##### Next, we see how tourism has affected air and water in Europe over the years
 
+![image](tourism_environment_effects.JPG)
+
 ![image](air_pollution.JPG)
 
 ![image](water_pollution.JPG)
 
 ##### Finally, the key visualizations that promote eco-tourism adn the call to action. In case the audience member has not yet had their 'oh! I see'-moment, these visualizations should incur that.
 
-![image](BerkeleyWomenAggregate.png)
+![image](certifications_port.jpg)
 
 #### Final work
 *Final story link:*
