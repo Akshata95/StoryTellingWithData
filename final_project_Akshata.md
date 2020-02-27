@@ -227,8 +227,8 @@ The story arc consists of four major visual elements to support the general stor
 ![image](worldmapeurope.JPG)
 
 Next, it shows the the impact of social media on tourism. 
-
-
+![image](mobile_influence_pic.jpg)
+![image](mobile_influence_3.jpg)
 ![image](socil_media_2.JPG)
 
 Next, we see how tourism has affected air and water in Europe over the years
