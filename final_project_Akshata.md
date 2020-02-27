@@ -207,9 +207,9 @@ Visualization 2 : As all interviewees suggested it to be on the same axis for ea
 
 # Part III & IV: final project
 #### Work, final decisions, observations &* audience
-A major change has been made from the last iteration of the final project; the focus is now on call to action. This is because I observed the audience to find 3 story arcs too much. The fact that we're dealing withn the Simpson's Paradox is something which I deemed less significant, and has been made a small element on the story instead of the main element. 
+A major change has been made from the last iteration of the final project; the focus is now on flow of causation. It helps the reader relate as to why this topic, why is it a concern and how to go about sustaining this sector. This is because I observed the audience needed a thread to follow. So I included more content in the social media effects. I also included an easy to read impactful table that explains the effects of our actions as tourists on the environment. 
 
-In the first feedback round, it was clear to me that my original nneded to be tweaked. After making the changes The work was made in Tableau, with certain elements (the camera graph  and social media influence images) edited in Paint. 
+In the first feedback round, it was clear to me that my original nneded to be tweaked. After making the changes to the environmental effects graphs,  The work was made in Tableau, with certain elements (the camera graph  and social media influence images) edited in Paint. 
 
 The intended audience is therefore those who are interested in learning more about impact of social media on tourism and in turn on environment , as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. 
 
